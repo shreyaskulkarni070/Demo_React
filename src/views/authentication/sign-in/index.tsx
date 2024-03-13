@@ -67,6 +67,8 @@ const Index = () => {
             top: "50%",
             left: "50%",
             transform: "translate(-50%, -50%)",
+            marginLeft: "0%",
+            marginRight: "15%",
           }}
         >
           <Card sx={{ ...cardStyle }}>
